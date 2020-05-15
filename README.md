@@ -67,7 +67,7 @@ sh использовать только для зависимостей и те
 https://www.howtoforge.com/tutorial/how-to-set-up-master-slave-replication-for-postgresql-96-on-ubuntu-1604/
 
 # 14.k8s
-Свалидировать Kubernetes кластер (1 master, 1 node)
+Свалидировать Kubernetes кластер (1 master, 1 node) On-Premise (в облаке нельзя)
 
 # 15.terraform ---- 
 Установить 2 машины в облаке и 1 реляционную базу данных. Создать базу данных в RDBMS
