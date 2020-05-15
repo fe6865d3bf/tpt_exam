@@ -3,4 +3,4 @@ WORKDIR /app
 COPY . .
 USER anton
 EXPOSE 3000
-ENTRYPOINT ["/app/http-sample.go"]
+ENTRYPOINT ["/app/"]
